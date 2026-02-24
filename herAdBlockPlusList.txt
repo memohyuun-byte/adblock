@@ -4,6 +4,7 @@
 ! Last modified: 5/26/23
 ! Expires: 7 days (update frequency)
 ! Homepage: https://drive.google.com/uc?export=download&id=1VITk0-aF5u6yG-p6hP4HE2aH1g_rjWyF
+! Link: https://github.com/memohyuun-byte/adblock/edit/main/herAdBlockPlusList.txt
 !
 weavatools.com##.modal-content
 weavatools.com##.d-block.modal.fade.show
@@ -170,4 +171,5 @@ topgirl.co##.custom-button
 topgirl.co##div.custom-button-container.mt-0.pt-0:nth-of-type(1) > [href*="https://kr3.ddal.xyz/video/category/onlyfans"] > .custom-button
 topgirl.co##.custom-button2
 topgirl.co##div.custom-button-container.mt-0.pt-0:nth-of-type(3) > [href*="https://mt1.adnetin.com/"] > .custom-button
+
 topgirl.co##.content_col > div.row:nth-of-type(2) > .col.text-center.mx-auto.px-0.pb-2.ban_shuffle
