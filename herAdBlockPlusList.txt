@@ -1,175 +1,277 @@
 [Adblock Plus 2.0]
 ! Version: 
 ! Title: Her Personal Filter List
-! Last modified: 5/26/23
+! Last modified: 7/18/2026
 ! Expires: 7 days (update frequency)
+! URL for Custom Filter List 
+! GitHub Gist (raw): https://raw.githubusercontent.com/memohyuun-byte/adblock/main/herAdBlockPlusList.txt
+! Homepage: https://drive.google.com/uc?export=download&confirm=1&id=1VITk0-aF5u6yG-p6hP4HE2aH1g_rjWyF
 ! Homepage: https://drive.google.com/uc?export=download&id=1VITk0-aF5u6yG-p6hP4HE2aH1g_rjWyF
-! Link: https://github.com/memohyuun-byte/adblock/edit/main/herAdBlockPlusList.txt
+! 
+! Filter Lists
+! ABP filters https://easylist-downloads.adblockplus.org/v3/full/abp-filters-anti-cv.txt 
+! EasyList https://easylist-downloads.adblockplus.org/v3/full/easylist.txt
+! EasyPrivacy https://easylist-downloads.adblockplus.org/v3/full/easyprivacy.txt
+! KoreanList+EasyLIst https://easylist-downloads.adblockplus.org/v3/full/koreanlist+easylist.txt
 !
-weavatools.com##.modal-content
-weavatools.com##.d-block.modal.fade.show
-weavatools.com##.modal-backdrop.fade.show
+##.col-10.col-md-3.col-sm-4.col-xs-6
+##.col-10.col-md-6.col-sm-6.col-xs-12
+##.happy-header-mobile
+##.happy-under-player-mobile
+##.top-banner
+##a[style="text-align: center; display: block;"]
+##div[style="position:fixed; left:50px; bottom:20px; z-index:999;"]
+##div[style="position:fixed; left:50px; bottom:20px; z-index:999;"]
+##div[style="position:fixed; right:50px; bottom:20px; z-index:999;"]
+##div[style="position:fixed; right:50px; bottom:20px; z-index:999;"]
+##div[style="position:relative; z-index:777;"]
+##div[style="position:relative; z-index:777;"]
+##section[data-br="1"][data-brs="detail"][data-br-n]
+##section[data-br="1"][data-brs="header"][data-br-n]
+#https://video.twimg.com/ext_tw_video/1848669902460309504/pu/vid/avc1/1280x720/mVxRMNMmQA6tyAJ_.mp4
+#https://video.twimg.com/ext_tw_video/1848669902460309504/pu/vid/avc1/1280x720/mVxRMNMmQA6tyAJ_.mp4
 analyticsvidhya.com###loginModal
-analyticsvidhya.com##.modal.login-pop-up.show
 analyticsvidhya.com##.modal-backdrop.show
-manamoa22.net##.ad-banner-widget.main-banner
-manamoa22.net##.ad-banner-widget.fit-banner
-manamoa22.net##.ad-banner-widget
-hentai2read.com##.col-xs-12.padding-5-tb.text-center.js-rotating
-hentai2read.com##.block-content.text-center.padding-10-all.bg-white.bc-xs
-to-chelin.com###popmake-46374
-to-chelin.com##.pum-container.popmake.theme-46354.pum-responsive.pum-responsive-tiny.responsive.size-tiny.active.custom-position
-torrentqq24.com##.row.at-row.at-banner.header
-torrentqq24.com##.row.at-row.at-banner.footer.hidden-xs.hidden-sm
-y2mate.com##.pzcmwhyppiiqlok-qywprf
-y2mate.com###ads_spot1
-otorrent3.com###banner_top_list_wrap
-otorrent3.com##.banner
-torrentyo.com##.scale
-hentai2read.com##.block-content.remove-padding.text-center.js-rotating
-hentai2read.com##.col-xs-12.text-center.js-rotating
-ddaltime32.com##.at-title
-r-bloggers.com##div[h2="Sponsors"]
-r-bloggers.com##div[h2="SPONSORS"]
-ddaltime33.com##.at-title
-manamoa48.net##.ad-banner-widget.main-banner
-manamoa48.net##.ad-banner-widget
-jogaeparty09.com##tr[style="border:1px solid white"]
-kr17.sogirl.co##.text-center
-marumaru.sale##div[class="row w_banner"]
+analyticsvidhya.com##.modal.login-pop-up.show
+av19.org##.col-md-12.mobile-banner
+av19v.com##.col-md-12.mobile-banner
+av19v.com##.col-md-12.mobile-banner
+avguri5.com##.bn_wrap
+avguri5.com##.bn_wrap
+avguri5.com##.bn_wrap
+avguri5.com##div[style="background:black; padding:15px; text-align:center; font-weight:bold; color:white; cursor:pointer; font-size:15px;"]
+avguri5.com##div[style="background:black; padding:15px; text-align:center; font-weight:bold; color:white; cursor:pointer; font-size:15px;"]
+avguri5.com##div[style="background:black; padding:15px; text-align:center; font-weight:bold; color:white; cursor:pointer; font-size:15px;"]
+avguri5.com##div[style="padding:10px; background:black; color:white; font-size:15px; font-weght:bold; text-align:center; cursor:pointer;"]
+avguri5.com##div[style="padding:10px; background:black; color:white; font-size:15px; font-weght:bold; text-align:center; cursor:pointer;"]
+avguri5.com##div[style="padding:10px; background:black; color:white; font-size:15px; font-weght:bold; text-align:center; cursor:pointer;"]
+avguri6.com##.bn_wrap
+avguri6.com##.bn_wrap
+avguri6.com##.bn_wrap
+avguri6.com##.right_bn
+avguri6.com##.right_bn
+avguri7.com##.bn_wrap
+avguri7.com##.bn_wrap
+avguri7.com##.right_bn
+avguri7.com##.right_bn
+avjoa63.com###execphp-10
+avjoa63.com###execphp-10
+avjoa63.com##.widget.widget_execphp
+avjoa63.com##.widget.widget_execphp
+avjoa63.com##table[style="width:100%;table-layout:fixed"]
+avjoa63.com##table[style="width:100%;table-layout:fixed"]
+avjoa64.com##table[style="width:100%;table-layout:fixed"]
+avjoa64.com##table[style="width:100%;table-layout:fixed"]
 avpop51.com##div[class="row w_banner"]
-manatoki77.net##.basic-banner.row.row-10
-newtoki77.com##.basic-banner.row.row-10
+bepick.net##.chat_div.msg_box.scroll.bd_all
+bepick.net##.chat_div.msg_box.scroll.bd_all
+bepick.net##.chat_div.msg_box.scroll.bd_all
+bepick.net##.chat_div.msg_box.scroll.bd_all
+boda21.net##.col-xl-3.col-lg-4.col-md-6
+boda21.net##.col-xl-3.col-lg-4.col-md-6
+boda21.net##.col-xl-3.col-lg-4.col-md-6
+chaturbate.com##.room_thumbnails
+chaturbate.com##.room_thumbnails
+chaturbate.com##.room_thumbnails
+cococut.net##.position-fixed.bottom-0.right-0.p-3
+cococut.net##.position-fixed.bottom-0.right-0.p-3
+cococut.net##.position-fixed.bottom-0.right-0.p-3
+ddaltime32.com##.at-title
+ddaltime33.com##.at-title
+dogjoa40.net##.at-title
+hentai2read.com##.block-content.remove-padding.text-center.js-rotating
+hentai2read.com##.block-content.text-center.padding-10-all.bg-white.bc-xs
+hentai2read.com##.col-xs-12.padding-5-tb.text-center.js-rotating
+hentai2read.com##.col-xs-12.text-center.js-rotating
+jogaeparty09.com##tr[style="border:1px solid white"]
 jogaeparty10.com##div[style="box-sizing: border-box; margin: 0px; padding: 3px; border: 1px solid rgb(246, 246, 246);  border-radius: 1px; background-color: rgb(255, 255, 255); letter-spacing: -1px;"]
 jogaeparty10.com##tr[style="border:1px solid white"]
+ko.xham.live##.visible-wrapper
+ko.xham.live##.visible-wrapper
+ko.xham.live##.visible-wrapper
+ko.xhamster2.com##.yld-pccams-widget.no-update
+ko.xhamster2.com##.yld-pccams-widget.no-update
+ko.xhamster2.com##.yld-pccams-widget.no-update
+kr17.sogirl.co##.text-center
 kr18.sogirl.co##.text-center
-to-chelin.com##.fusion-carousel-wrapper
-to-chelin.com##.fusion-columns.fusion-columns-4.fusion-widget-area
+kr33.sogirl.so##.g.g-1
+kr33.sogirl.so##.g.g-10
+kr33.sogirl.so##.g.g-15
+kr33.sogirl.so##.g.g-2
+kr33.sogirl.so##.g.g-3
+kr33.sogirl.so##.happy-footer
+kr33.sogirl.so##.happy-header
+kr39.topgirl.co##.custom-button
+kr39.topgirl.co##.custom-button
+kr40.topgirl.co##.col-12.col-xl-4.rating
+kr40.topgirl.co##.content_col > div.row:nth-of-type(2) > .col.text-center.mx-auto.px-0.pb-2.ban_shuffle
+kr40.topgirl.co##.custom-button2
+kr40.topgirl.co##div.custom-button-container.mt-0.pt-0:nth-of-type(1) > [href*="https://kr3.ddal.xyz/video/category/onlyfans"] > .custom-button
+kr40.topgirl.co##div.custom-button-container.mt-0.pt-0:nth-of-type(3) > [href*="https://mt1.adnetin.com/"] > .custom-button
 m.myav.life##.col.col-12.col-sm-6
-wfwf124.com##.top-banner
-wfwf125.com##.top-banner
-##.top-banner
-yadongpan14.org##.happy-header-mobile
-##.happy-header-mobile
-yadongpan15.org##.happy-under-player-mobile
-##.happy-under-player-mobile
+manamoa22.net##.ad-banner-widget
+manamoa22.net##.ad-banner-widget.fit-banner
+manamoa22.net##.ad-banner-widget.main-banner
+manamoa48.net##.ad-banner-widget
+manamoa48.net##.ad-banner-widget.main-banner
+manatoki77.net##.basic-banner.row.row-10
 manatoki93.net##.col-10.col-md-3.col-sm-4.col-xs-6
 manatoki93.net##.col-10.col-md-6.col-sm-6.col-xs-12
 manatoki93.net##a[style="text-align: center; display: block;"]
-##.col-10.col-md-3.col-sm-4.col-xs-6
-##.col-10.col-md-6.col-sm-6.col-xs-12
-##a[style="text-align: center; display: block;"]
-yadongpan15.org###top-desktop
-torrentmax15.com##.container-line-main-m
+marumaru.sale##div[class="row w_banner"]
+newtoki77.com##.basic-banner.row.row-10
+nitroflare.com###superbox-container
+nitroflare.com###superbox-overlay
+nitroflare.com###superbox-wrapper
+novelishuniverse.com##.announ
+novelishuniverse.com##.announ
+otorrent3.com###banner_top_list_wrap
+otorrent3.com##.banner
+r-bloggers.com##div[h2="SPONSORS"]
+r-bloggers.com##div[h2="Sponsors"]
+shemale6.com##.▭__push.▭_started
+shemale6.com##.▭__push.▭_started
+shemale6.com##.▭__push.▭_started
 sorabada26.com##p[style="margin:4px 0;"]
 spankbang.com##.video-list.livecamv2-rotate
-torrentqq117.com##.row.at-row.at-banner.header
+t3.xtoon365.com##.w-100.pt-60.chapter-ad
+to-chelin.com###popmake-46374
+to-chelin.com##.fusion-carousel-wrapper
+to-chelin.com##.fusion-columns.fusion-columns-4.fusion-widget-area
+to-chelin.com##.pum-container.popmake.theme-46354.pum-responsive.pum-responsive-tiny.responsive.size-tiny.active.custom-position
+topgirl.co##.col-12.col-xl-4.rating
+topgirl.co##.col-12.col-xl-4.rating
+topgirl.co##.col-12.col-xl-4.rating
+topgirl.co##.content_col > div.row:nth-of-type(2) > .col.text-center.mx-auto.px-0.pb-2.ban_shuffle
+topgirl.co##.custom-button
+topgirl.co##.custom-button
+topgirl.co##.custom-button2
+topgirl.co##div.custom-button-container.mt-0.pt-0:nth-of-type(1) > [href*="https://kr3.ddal.xyz/video/category/onlyfans"] > .custom-button
+topgirl.co##div.custom-button-container.mt-0.pt-0:nth-of-type(3) > [href*="https://mt1.adnetin.com/"] > .custom-button
+torrentmax15.com##.container-line-main-m
 torrentqq117.com##.row.at-row.at-banner
-dogjoa40.net##.at-title
-torrentqq122.com##.row.at-row.at-banner.header
+torrentqq117.com##.row.at-row.at-banner.header
 torrentqq122.com##.row.at-row.at-banner
-nitroflare.com###superbox-container
-nitroflare.com###superbox-wrapper
-nitroflare.com###superbox-overlay
-kr33.sogirl.so##.g.g-1
-kr33.sogirl.so##.g.g-2
-kr33.sogirl.so##.happy-header
-kr33.sogirl.so##.g.g-3
-kr33.sogirl.so##.happy-footer
-kr33.sogirl.so##.g.g-10
-kr33.sogirl.so##.g.g-15
-xvideos.com##.ms772E0BBA2aD474dbeBDC4d18cA0Ce1BF
-||hentaicdn.com/cdn/v2.assets/01212020/0_7LEA.jpg
-||disqus.com/embed/comments/?base=default&f=h2r&t_i=mng-19485&t_u=https%3A%2F%2Fhentai2read.com%2Fyankeezuma_kanraku%2F&t_d=Reading%20Yankee-zuma%20Kanraku!%20-%20Hitozuma%20Kanochi%20Onsen%20(Original)%20Hentai%20by%20AOI%20Hitori%20-%20coming-soon%3A%20Coming%20soon%20-%20Page%201%20hentai%20manga%20online&t_t=Reading%20Yankee-zuma%20Kanraku!%20-%20Hitozuma%20Kanochi%20Onsen%20(Original)%20Hentai%20by%20AOI%20Hitori%20-%20coming-soon%3A%20Coming%20soon%20-%20Page%201%20hentai%20manga%20online&s_o=default#version=2523079e0120251bd2790d37728f14be
-||19guide03.com/img/*400x100*.gif
-||19guide03.com/img/*400-100*.gif
-||mraza2dosa.com/SETunKXXz5EP4INbXedmi0RQcZOU8lE5JUR2SPQek2Kynr/iARt7tfiN_J58hS5as0QctBEvRKL13n2aTasKRMpNr3g/yd2OGKlaPnngVri8vNsEqp4JDwo-AXvQxelYYE9WPJpq/4v2uaxVR0qi08MRs42IkP8cd8sME5WAMGq_K5VE8XXla/UprUn3YpQezs0V29JTQSE_dD0xNTMwNzc0NDI4NDk3.jpg
-||mraza2dosa.com/SEGKXUqnLdArXpLixm1x7fP-ZEGG981h7/GdzteImoOX-0cogVXUa5Scuclc8LnAt/jnJhlbL1MN_EIP5ssdfLydtAgD6hCGL/wlEgD0rDpzVCq_82bbDaK5fpz6iiOcl/4EH6TIyi-leJ92NlmzpgD9iRVvBio5R/hPud4lsaKFeTclHnyZZVdkvJf7w5XzL/kC9NEphSE_dD0xNTM4MTQ2MTgwMTE5.jpg
-||mraza2dosa.com/SESuE1GUVbp5qufAGgTCupOGmkORSlMcHGjQT_FWgGOYe/znFQ-eYmkh-EZwmVCq61ET1bpJeqWRH8zpBLp5BGAjT/mc6ZUxOT4zarWg_MCmLj0k8BxURhv6cqgEfcmS31Hok/ZM8NszE-TrFZSgjg9YuNigNT5dsHvRPkDz-WGe35HyB/7hqYdsdjC7CmWbVQSE
-||mraza2dosa.com/SEPJK-vrSHg7TWt0gJKisJxMP5tpMxJewnu-glxpjJ/mi6bYJ79MUcJ81HoNokXW69ptO8Ba8pESsTDDp4X/eW5qQZj6ffHXKurnp9TlFTROzVBtHHCmgiwjpJuF/3dYzTo1WvGzPCHGNMWYcypKC4lsxZdJBmI0ZjfYF/eHjKnIgZpUWSg5jIm5VnSfDuUW9Ftq-9VSE
-||torrentdia.com/data/zn_banner/*
-||jogaeparty09.com/data/editor/2008/6a4ed722c034885c518e1fb0ee1e3f60_1596267198_5104.jpg
-||1.bp.blogspot.com/-Z2ZMY3jEl1I/X2NCj5uUArI/AAAAAAAAAmc/YBuekGwVoOkPL_QhIAVk78MHVnYVj1rDQCNcBGAsYHQ/s0/danbam300-2.gif
-||images2.imgbox.com/21/8e/ek08HzrL_o.jpg
-||images2.imgbox.com/0c/9c/JGK2xyJX_o.jpg
-||images2.imgbox.com/c9/60/znw3IJTN_o.jpg
-||images2.imgbox.com/d8/e8/gY0dvEbv_o.jpg
-||images2.imgbox.com/36/73/ghl33ee3_o.jpg
-||to-chelin.com/wp-content/uploads/2020/10/%EC%9C%88%EC%9C%88-%EB%B0%B0%EB%84%88-%ED%86%A0%ED%86%A0%ED%9E%88%EC%96%B4%EB%A1%9C-270x300-%EC%9D%80%EA%BC%B4-%ED%8C%9D%EC%97%85.gif
-||to-chelin.com/wp-content/uploads/2020/07/%EC%9C%A0%EB%8B%88-270x300-1.jpg
-||i.imgur.com/V3HTnzW.gif
-||to-chelin.com/wp-content/uploads/2020/08/%ED%85%94%EB%A0%88%EA%B7%B8%EB%9E%A8-%EC%97%B0%EB%9D%BD%EC%B2%98.jpg
-||to-chelin.com/wp-content/uploads/2020/08/%ED%85%94%EB%A0%88%EA%B7%B8%EB%9E%A8-%EC%97%B0%EB%9D%BD%EC%B2%98-200x56.jpg
-||to-chelin.com/wp-content/uploads/2020/08/%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%86%A1-%EC%97%B0%EB%9D%BD%EC%B2%98.jpg
-||to-chelin.com/wp-content/uploads/2020/08/%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%86%A1-%EC%97%B0%EB%9D%BD%EC%B2%98-200x56.jpg
-||to-chelin.com/wp-content/uploads/2019/10/text-300x84.jpg
-||to-chelin.com/wp-content/uploads/2019/10/text-200x56.jpg
-||to-chelin.com/wp-content/uploads/2019/10/text.jpg
-||to-chelin.com/wp-content/uploads/2020/05/%EC%BD%94%EC%9D%B4.jpg
-||to-chelin.com/wp-content/uploads/2020/05/%EC%BD%94%EC%9D%B4-200x222.jpg
-||torrentplay2.com/img/banner-1.gif?v=3
-||cbu01.alicdn.com/img/ibank/2020/193/362/14724263391_1230538058.jpg
-||cbu01.alicdn.com/img/ibank/2019/310/918/12641819013_1230538058.jpg
-||cbu01.alicdn.com/img/ibank/*
-||imgcloud5.net/16000/spin160.gif
-||imgcloud6.net/16000/spin904160.gif
-||sorabada26.com/img/banner/DHL/*.gif
-||sorabada26.com/img/banner/*.gif
-||happybam.com/web/product/medium/hius455_adult.png
-||torrentdia3.com/data/zn_bimg/*
-||nitroflare.com/img/welcome2purchase.png?v=1.0.0
-||nitroflare.com/img/swf/LowSpeedMeter.png
-||nitroflare.com/img/swf/HighSpeedMeter.png
-||1.bp.blogspot.com/-gC9v3xViqhY/YSiuMC04MmI/AAAAAAAABHw/VTW3qjcp6405Ce1OhhmcRmehccyrINAVwCNcBGAsYHQ/s0/bou210827.gif
-||1.bp.blogspot.com/-jppdrhfJ5ck/XpQgYD7PE3I/AAAAAAAAAbM/e84c0oDCQZA1bC5FgP2E_CtwnJ-1v9v5ACNcBGAsYHQ/s1600/max300x100.gif
-||1.bp.blogspot.com/-Jt1vd3e2d6o/XhZvefQM58I/AAAAAAAAAXI/OTUi5wDOXpsY0EY-zT9LWVoOu1POumDaQCNcBGAsYHQ/s1600/spoto_300x100.gif
-||hcdn1.maxsocdn.net/images/appleapi2205-1.gif
-||hcdn1.maxsocdn.net/images/1xdota-2112-1.gif
-xvideos.com##.ntve45b2C2DD03e49De0e5E9Ac2B2Ac5e95
-xvideos.com##.ntv4f6bEAE5e82091dB23c2dc8FbFF5c42F
-xvideos.com##.ntv.*
-||imgcloud13.net/spin9041602.gif
-av19.org##.col-md-12.mobile-banner
+torrentqq122.com##.row.at-row.at-banner.header
+torrentqq24.com##.row.at-row.at-banner.footer.hidden-xs.hidden-sm
+torrentqq24.com##.row.at-row.at-banner.header
+torrentqq378.com##.row.at-row.at-banner.header
+torrentqq378.com##.row.at-row.at-banner.header
+torrentyo.com##.scale
+tvchak79.com##div[style="margin-top: 10px;text-align:center;margin-bottom: 5px;"]
+tvchak79.com##div[style="margin-top: 10px;text-align:center;margin-bottom: 5px;"]
+tvchak79.com##div[style="margin-top: 10px;text-align:center;margin-bottom: 5px;"]
 video.twimg.com
-||torrentdia100.com/data/to_list/*
-bepick.net##.chat_div.msg_box.scroll.bd_all
-bepick.net##.chat_div.msg_box.scroll.bd_all
+weavatools.com##.d-block.modal.fade.show
+weavatools.com##.modal-backdrop.fade.show
+weavatools.com##.modal-content
+wfwf124.com##.top-banner
+wfwf125.com##.top-banner
+xhamster2.com##.yld-pccams-widget.no-update
+xhamster2.com##.yld-pccams-widget.no-update
+xhamster2.com##.yld-pccams-widget.no-update
+xvideos.com##.ms772E0BBA2aD474dbeBDC4d18cA0Ce1BF
+xvideos.com##.ntv.*
+xvideos.com##.ntv4f6bEAE5e82091dB23c2dc8FbFF5c42F
+xvideos.com##.ntve45b2C2DD03e49De0e5E9Ac2B2Ac5e95
+xxpornhub.com###modalWrapMTubes
+xxpornhub.com###modalWrapMTubes
+xxpornhub.com##.fadeInMTubes.containerMTubes.ageDisclaimer.uiSwap.isVisibleMTubes.elOpenMTubes
+xxpornhub.com##.fadeInMTubes.containerMTubes.ageDisclaimer.uiSwap.isVisibleMTubes.elOpenMTubes
+y2mate.com###ads_spot1
+y2mate.com##.pzcmwhyppiiqlok-qywprf
+yadong.best##.my-3.ml-0.flex.flex-wrap.items-center.justify-start
+yadong.best##.my-3.ml-0.flex.flex-wrap.items-center.justify-start
 yadong.best##.my-3.ml-0.flex.flex-wrap.items-center.justify-start
 yadong.best##.space-y-6.mb-6
-youtube.com###dialog
-youtube.com##.style-scope.yt-upsell-dialog-renderer
-shemale6.com##.▭__push.▭_started
-youtube.com##.ytp-button.ytp-suggested-action-badge.ytp-suggested-action-badge-expanded.ytp-suggested-action-badge-content-forward.ytp-suggested-action-badge-with-controls
-chaturbate.com##.room_thumbnails
-ko.xham.live##.visible-wrapper
-ko.xhamster2.com##.yld-pccams-widget.no-update
-xhamster2.com##.yld-pccams-widget.no-update
-youtube.com##.opened
-youtube.com##.style-scope.ytd-popup-container
+yadong.best##.space-y-6.mb-6
+yadong.best##.space-y-6.mb-6
 yadongkorea.org###banner
-tvchak79.com##div[style="margin-top: 10px;text-align:center;margin-bottom: 5px;"]
-boda21.net##.col-xl-3.col-lg-4.col-md-6
-cococut.net##.position-fixed.bottom-0.right-0.p-3
-avguri5.com##.bn_wrap
-avguri5.com##div[style="background:black; padding:15px; text-align:center; font-weight:bold; color:white; cursor:pointer; font-size:15px;"]
-avguri5.com##div[style="padding:10px; background:black; color:white; font-size:15px; font-weght:bold; text-align:center; cursor:pointer;"]
-avguri6.com##.bn_wrap
-||jusotop.com/b/bada6.jpg
-||jusotop.com/b/via1.jpg
+yadongkorea.org###banner
+yadongkorea.org###banner
+yadongpan14.org##.happy-header-mobile
+yadongpan15.org###top-desktop
+yadongpan15.org##.happy-under-player-mobile
+youtube.com###dialog
+youtube.com##.opened
+youtube.com##.style-scope.yt-upsell-dialog-renderer
+youtube.com##.style-scope.ytd-popup-container
+youtube.com##.ytp-button.ytp-suggested-action-badge.ytp-suggested-action-badge-expanded.ytp-suggested-action-badge-content-forward.ytp-suggested-action-badge-with-controls
+||1.bp.blogspot.com/-Jt1vd3e2d6o/XhZvefQM58I/AAAAAAAAAXI/OTUi5wDOXpsY0EY-zT9LWVoOu1POumDaQCNcBGAsYHQ/s1600/spoto_300x100.gif
+||1.bp.blogspot.com/-Z2ZMY3jEl1I/X2NCj5uUArI/AAAAAAAAAmc/YBuekGwVoOkPL_QhIAVk78MHVnYVj1rDQCNcBGAsYHQ/s0/danbam300-2.gif
+||1.bp.blogspot.com/-gC9v3xViqhY/YSiuMC04MmI/AAAAAAAABHw/VTW3qjcp6405Ce1OhhmcRmehccyrINAVwCNcBGAsYHQ/s0/bou210827.gif
+||1.bp.blogspot.com/-jppdrhfJ5ck/XpQgYD7PE3I/AAAAAAAAAbM/e84c0oDCQZA1bC5FgP2E_CtwnJ-1v9v5ACNcBGAsYHQ/s1600/max300x100.gif
+||19guide03.com/img/*400-100*.gif
+||19guide03.com/img/*400x100*.gif
+||boda21.net/img/tvc1.gif
+||boda21.net/img/tvc1.gif
+||boda21.net/img/tvc1.gif
+||cbu01.alicdn.com/img/ibank/*
+||cbu01.alicdn.com/img/ibank/2019/310/918/12641819013_1230538058.jpg
+||cbu01.alicdn.com/img/ibank/2020/193/362/14724263391_1230538058.jpg
+||disqus.com/embed/comments/?base=default&f=h2r&t_i=mng-19485&t_u=https%3A%2F%2Fhentai2read.com%2Fyankeezuma_kanraku%2F&t_d=Reading%20Yankee-zuma%20Kanraku!%20-%20Hitozuma%20Kanochi%20Onsen%20(Original)%20Hentai%20by%20AOI%20Hitori%20-%20coming-soon%3A%20Coming%20soon%20-%20Page%201%20hentai%20manga%20online&t_t=Reading%20Yankee-zuma%20Kanraku!%20-%20Hitozuma%20Kanochi%20Onsen%20(Original)%20Hentai%20by%20AOI%20Hitori%20-%20coming-soon%3A%20Coming%20soon%20-%20Page%201%20hentai%20manga%20online&s_o=default#version=2523079e0120251bd2790d37728f14be
+||happybam.com/web/product/medium/hius455_adult.png
+||hcdn1.maxsocdn.net/images/1xdota-2112-1.gif
+||hcdn1.maxsocdn.net/images/appleapi2205-1.gif
+||hentaicdn.com/cdn/v2.assets/01212020/0_7LEA.jpg
+||i.imgur.com/Un3xErs.gif
+||i.imgur.com/Un3xErs.gif
+||i.imgur.com/Un3xErs.gif
+||i.imgur.com/V3HTnzW.gif
+||images2.imgbox.com/0c/9c/JGK2xyJX_o.jpg
+||images2.imgbox.com/21/8e/ek08HzrL_o.jpg
+||images2.imgbox.com/36/73/ghl33ee3_o.jpg
+||images2.imgbox.com/c9/60/znw3IJTN_o.jpg
+||images2.imgbox.com/d8/e8/gY0dvEbv_o.jpg
+||imgcloud13.net/spin9041602.gif
+||imgcloud5.net/16000/spin160.gif
+||imgcloud6.net/16000/spin904160.gif
+||jogaeparty09.com/data/editor/2008/6a4ed722c034885c518e1fb0ee1e3f60_1596267198_5104.jpg
 ||jusotop.com/b/alpha6.jpg
-||jusotop.com/b/eve.jpg
+||jusotop.com/b/alpha6.jpg
+||jusotop.com/b/alpha6.jpg
+||jusotop.com/b/bada6.jpg
+||jusotop.com/b/bada6.jpg
+||jusotop.com/b/bada6.jpg
 ||jusotop.com/b/baro.jpg
+||jusotop.com/b/baro.jpg
+||jusotop.com/b/baro.jpg
+||jusotop.com/b/eve.jpg
+||jusotop.com/b/eve.jpg
+||jusotop.com/b/eve.jpg
+||jusotop.com/b/macao2.jpg
+||jusotop.com/b/macao2.jpg
 ||jusotop.com/b/macao2.jpg
 ||jusotop.com/b/racasino3.jpg
-||boda21.net/img/tvc1.gif
-||i.imgur.com/Un3xErs.gif
+||jusotop.com/b/racasino3.jpg
+||jusotop.com/b/racasino3.jpg
+||jusotop.com/b/via1.jpg
+||jusotop.com/b/via1.jpg
+||jusotop.com/b/via1.jpg
+||mraza2dosa.com/SEGKXUqnLdArXpLixm1x7fP-ZEGG981h7/GdzteImoOX-0cogVXUa5Scuclc8LnAt/jnJhlbL1MN_EIP5ssdfLydtAgD6hCGL/wlEgD0rDpzVCq_82bbDaK5fpz6iiOcl/4EH6TIyi-leJ92NlmzpgD9iRVvBio5R/hPud4lsaKFeTclHnyZZVdkvJf7w5XzL/kC9NEphSE_dD0xNTM4MTQ2MTgwMTE5.jpg
+||mraza2dosa.com/SEPJK-vrSHg7TWt0gJKisJxMP5tpMxJewnu-glxpjJ/mi6bYJ79MUcJ81HoNokXW69ptO8Ba8pESsTDDp4X/eW5qQZj6ffHXKurnp9TlFTROzVBtHHCmgiwjpJuF/3dYzTo1WvGzPCHGNMWYcypKC4lsxZdJBmI0ZjfYF/eHjKnIgZpUWSg5jIm5VnSfDuUW9Ftq-9VSE
+||mraza2dosa.com/SESuE1GUVbp5qufAGgTCupOGmkORSlMcHGjQT_FWgGOYe/znFQ-eYmkh-EZwmVCq61ET1bpJeqWRH8zpBLp5BGAjT/mc6ZUxOT4zarWg_MCmLj0k8BxURhv6cqgEfcmS31Hok/ZM8NszE-TrFZSgjg9YuNigNT5dsHvRPkDz-WGe35HyB/7hqYdsdjC7CmWbVQSE
+||mraza2dosa.com/SETunKXXz5EP4INbXedmi0RQcZOU8lE5JUR2SPQek2Kynr/iARt7tfiN_J58hS5as0QctBEvRKL13n2aTasKRMpNr3g/yd2OGKlaPnngVri8vNsEqp4JDwo-AXvQxelYYE9WPJpq/4v2uaxVR0qi08MRs42IkP8cd8sME5WAMGq_K5VE8XXla/UprUn3YpQezs0V29JTQSE_dD0xNTMwNzc0NDI4NDk3.jpg
+||nitroflare.com/img/swf/HighSpeedMeter.png
+||nitroflare.com/img/swf/LowSpeedMeter.png
+||nitroflare.com/img/welcome2purchase.png?v=1.0.0
+||sorabada26.com/img/banner/*.gif
+||sorabada26.com/img/banner/DHL/*.gif
 ||telegra.ph/file/76db36ab734afd24f4886.gif
-topgirl.co##.col-12.col-xl-4.rating
-topgirl.co##.custom-button
-#https://video.twimg.com/ext_tw_video/1848669902460309504/pu/vid/avc1/1280x720/mVxRMNMmQA6tyAJ_.mp4
-topgirl.co##.custom-button
-topgirl.co##div.custom-button-container.mt-0.pt-0:nth-of-type(1) > [href*="https://kr3.ddal.xyz/video/category/onlyfans"] > .custom-button
-topgirl.co##.custom-button2
-topgirl.co##div.custom-button-container.mt-0.pt-0:nth-of-type(3) > [href*="https://mt1.adnetin.com/"] > .custom-button
-
-topgirl.co##.content_col > div.row:nth-of-type(2) > .col.text-center.mx-auto.px-0.pb-2.ban_shuffle
+||telegra.ph/file/76db36ab734afd24f4886.gif
+||telegra.ph/file/76db36ab734afd24f4886.gif
+||to-chelin.com/wp-content/uploads/2019/10/text-200x56.jpg
+||to-chelin.com/wp-content/uploads/2019/10/text-300x84.jpg
+||to-chelin.com/wp-content/uploads/2019/10/text.jpg
+||to-chelin.com/wp-content/uploads/2020/05/%EC%BD%94%EC%9D%B4-200x222.jpg
+||to-chelin.com/wp-content/uploads/2020/05/%EC%BD%94%EC%9D%B4.jpg
+||to-chelin.com/wp-content/uploads/2020/07/%EC%9C%A0%EB%8B%88-270x300-1.jpg
+||to-chelin.com/wp-content/uploads/2020/08/%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%86%A1-%EC%97%B0%EB%9D%BD%EC%B2%98-200x56.jpg
+||to-chelin.com/wp-content/uploads/2020/08/%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%86%A1-%EC%97%B0%EB%9D%BD%EC%B2%98.jpg
+||to-chelin.com/wp-content/uploads/2020/08/%ED%85%94%EB%A0%88%EA%B7%B8%EB%9E%A8-%EC%97%B0%EB%9D%BD%EC%B2%98-200x56.jpg
+||to-chelin.com/wp-content/uploads/2020/08/%ED%85%94%EB%A0%88%EA%B7%B8%EB%9E%A8-%EC%97%B0%EB%9D%BD%EC%B2%98.jpg
+||to-chelin.com/wp-content/uploads/2020/10/%EC%9C%88%EC%9C%88-%EB%B0%B0%EB%84%88-%ED%86%A0%ED%86%A0%ED%9E%88%EC%96%B4%EB%A1%9C-270x300-%EC%9D%80%EA%BC%B4-%ED%8C%9D%EC%97%85.gif
+||torrentdia.com/data/zn_banner/*
+||torrentdia100.com/data/to_list/*
+||torrentdia3.com/data/zn_bimg/*
+||torrentplay2.com/img/banner-1.gif?v=3
